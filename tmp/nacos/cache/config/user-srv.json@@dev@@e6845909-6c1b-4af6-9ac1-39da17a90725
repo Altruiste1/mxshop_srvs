@@ -1,0 +1,14 @@
+{
+    "name":"user_srv",
+    "mysql":{
+    "port":3306,
+    "host":"121.199.46.42",
+    "db":"cloud_shop",
+    "user":"hl",
+    "password":"123456"
+    },
+    "consul":{
+        "host":"127.0.0.1",
+        "port":8500
+    }
+}
